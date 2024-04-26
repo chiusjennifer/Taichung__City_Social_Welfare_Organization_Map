@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'tw.edu.pu.s1114859.taichung__city_social_welfare_organization_map'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "tw.edu.pu.s1114859.taichung__city_social_welfare_organization_map"
         minSdk 28
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
