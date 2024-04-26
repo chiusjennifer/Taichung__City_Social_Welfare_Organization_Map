@@ -16,9 +16,11 @@ data class Record(
     @SerializedName("服務對象") val group: String,
     @SerializedName("縣市別代碼") val code: String
 )
+
+/*
 data class DataResponse(
     @SerializedName("ROOT") val root:Root
 )
 data class Root(
     @SerializedName("RECORD") val records: List<Record>
-)
+)*/
